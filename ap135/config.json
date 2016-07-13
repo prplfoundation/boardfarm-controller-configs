@@ -1,0 +1,17 @@
+{
+    "ap135": {
+        "board_type": "ap135",
+        "conn_cmd": "cu -l /dev/ttyUSB0 -s 115200",
+        "lan_device": "ap135-lan",
+	      "powerip": "10.0.2.230",
+        "powerport": "5",
+        "power_username": "outlet5",
+        "power_password": "test",
+        "wan_device": "ap135-wan",
+      	"connection_type": "local_serial",
+      	"lan_username": "tester",
+      	"lan_password": "test",
+      	"wan_password": "test",
+      	"wan_username": "tester"
+    }
+}
