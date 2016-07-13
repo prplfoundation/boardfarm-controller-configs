@@ -4,7 +4,7 @@
         "conn_cmd": "cu -l /dev/ttyUSB0 -s 115200",
         "lan_device": "ap135-lan",
 	      "powerip": "10.0.2.230",
-        "powerport": "5",
+        "powerport": "1",
         "power_username": "outlet5",
         "power_password": "test",
         "wan_device": "ap135-wan",
