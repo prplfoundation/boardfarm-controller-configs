@@ -1,0 +1,17 @@
+{
+    "ap143": {
+        "board_type": "ap143",
+        "conn_cmd": "cu -l /dev/ttyUSB0 -s 115200",
+        "lan_device": "ap143-lan",
+	      "powerip": "10.0.2.230",
+        "powerport": "8",
+        "power_username": "outlet1",
+        "power_password": "test",
+        "wan_device": "ap143-wan",
+      	"connection_type": "local_serial",
+      	"lan_username": "tester",
+      	"lan_password": "test",
+      	"wan_password": "test",
+      	"wan_username": "tester"
+    }
+}
